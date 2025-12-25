@@ -78,6 +78,10 @@ Thumbs.db
 
 # files
 *.ipynb
+git rm -r --cached myenv
 
 # Virtual environment
 myenv/
+
+# files
+.backend/resources

@@ -8,7 +8,6 @@ if str(ROOT_DIR) not in sys.path:
 
 import streamlit as st
 import requests
-from backend.groq import llm_output
 
 
 st.title("HR Resume Filtering")
