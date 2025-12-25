@@ -1,0 +1,7 @@
+langchain_huggingface
+langchain
+faiss
+langchain_community
+pymypdf
+
+
