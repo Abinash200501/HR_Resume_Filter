@@ -20,7 +20,8 @@ This project is an AI-powered tool that helps HR teams efficiently filter, rank,
 - **Frontend:** Streamlit
 - **AI/ML:** LangChain, Groq LLMs, Transformers
 - **Environment Management:** `virtualenv`
-- **Version Control:** Git, GitHub
+- **Version Control:** Git,
+- **Vector Database:** FAISS
 
 ---
 
