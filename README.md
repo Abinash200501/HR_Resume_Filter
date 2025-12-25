@@ -37,8 +37,8 @@ This project is an AI-powered tool that helps HR teams efficiently filter, rank,
 
     ```bash
     python -m venv myenv
-    myenv\Scripts\activate
-    source myenv/bin/activate
+    myenv\Scripts\activate - For Windows
+    source myenv/bin/activate - for Linux/ MacOs
 
 3. Install dependencies:
 
