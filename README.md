@@ -21,6 +21,7 @@ This project is an AI-powered tool that helps HR teams efficiently filter, rank,
 - **AI/ML:** LangChain, Groq LLMs, Transformers
 - **Environment Management:** `virtualenv`
 - **Version Control:** Git, GitHub
+- **Vector Database:** FAISS
 
 ---
 
