@@ -1,7 +1,11 @@
 langchain_huggingface
 langchain
-faiss
+faiss-cpu
 langchain_community
 pymypdf
-
+langchain_groq
+fastapi
+streamlit
+python-dotenv
+sentence-transformers
 

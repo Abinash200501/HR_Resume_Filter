@@ -1,0 +1,776 @@
+[
+  {
+    "faiss_index": 0,
+    "file_name": "Aakash Resume.pdf",
+    "index": 0,
+    "chunk": "AAKASH V \naakashveera@gmail.com | +91 9489792583 | LinkedIn | GitHub \nSUMMARY \n \nA Machine Learning Engineer with 3+ years of experience in developing cutting-edge AI products. Equally skilled in \nres"
+  },
+  {
+    "faiss_index": 1,
+    "file_name": "Aakash Resume.pdf",
+    "index": 1,
+    "chunk": " cutting-edge AI products. Equally skilled in \nresearch & development and curious about solving complex problems with innovative solutions. Proficient in Python, \nDeep Learning, NLP, and MLOps, with a"
+  },
+  {
+    "faiss_index": 2,
+    "file_name": "Aakash Resume.pdf",
+    "index": 2,
+    "chunk": " in Python, \nDeep Learning, NLP, and MLOps, with a track record of impactful contributions to R&D projects. \nEXPERIENCE \n \nUST HEALTHPROOF (UST GLOBAL) | Developer - II                                "
+  },
+  {
+    "faiss_index": 3,
+    "file_name": "Aakash Resume.pdf",
+    "index": 3,
+    "chunk": ") | Developer - II                                                        Aug 2024 - Present \n\u2022 Designed and developed an end-to-end HCC coding POC pipeline on Azure, integrating Metamaplite and GPT w"
+  },
+  {
+    "faiss_index": 4,
+    "file_name": "Aakash Resume.pdf",
+    "index": 4,
+    "chunk": "peline on Azure, integrating Metamaplite and GPT with \nrobust workflow tracking and exception handling mechanisms. \n\u2022 Worked on creating a synthetic dataset with GPT, utilizing CMS guidelines and medi"
+  },
+  {
+    "faiss_index": 5,
+    "file_name": "Aakash Resume.pdf",
+    "index": 5,
+    "chunk": "ataset with GPT, utilizing CMS guidelines and medical coding alphabetic index for \nbuilding a BERT-based ICD prediction model. \nBUDDI AI | Research Engineer \u2013 I                                        "
+  },
+  {
+    "faiss_index": 6,
+    "file_name": "Aakash Resume.pdf",
+    "index": 6,
+    "chunk": "gineer \u2013 I                                                                                             May 2022 - July 2024 \n\u2022 Conducted in-depth research on multiple biomedical language models and de"
+  },
+  {
+    "faiss_index": 7,
+    "file_name": "Aakash Resume.pdf",
+    "index": 7,
+    "chunk": "arch on multiple biomedical language models and developed a BERT-based API for \nfiltering candidate medical codes, which remarkably improved the precision of the existing systems by over 25%.  \n\u2022 Deve"
+  },
+  {
+    "faiss_index": 8,
+    "file_name": "Aakash Resume.pdf",
+    "index": 8,
+    "chunk": "sion of the existing systems by over 25%.  \n\u2022 Developed a cutting-edge relation extraction algorithm with exceptional accuracy, leveraging LSTM models to \ncapture complex relationships among clinical "
+  },
+  {
+    "faiss_index": 9,
+    "file_name": "Aakash Resume.pdf",
+    "index": 9,
+    "chunk": " to \ncapture complex relationships among clinical entities with precision and reliability.  \n\u2022 Contributed extensively to the research and development activities conducted on the company's AI-based pr"
+  },
+  {
+    "faiss_index": 10,
+    "file_name": "Aakash Resume.pdf",
+    "index": 10,
+    "chunk": " activities conducted on the company's AI-based products, \nsuch as NER API, PHI Parser, and Unjoiner. \nPUBLICATIONS \n \n \n \n \n\u2022 Sudarsun Santhiappan, Mukesh Kumar Reghu, Mahendran Saminathan, Aakash Ve"
+  },
+  {
+    "faiss_index": 11,
+    "file_name": "Aakash Resume.pdf",
+    "index": 11,
+    "chunk": "ukesh Kumar Reghu, Mahendran Saminathan, Aakash Veerappan. \u201cSpeeding up LIME using \nAttention Weights\u201d - CoDS COMAD 2024. \nEDUCATION \n \nThiagarajar College of Engineering  \n \n \n \n \n \n \n \n \n \n \n \n \n \n "
+  },
+  {
+    "faiss_index": 12,
+    "file_name": "Aakash Resume.pdf",
+    "index": 12,
+    "chunk": "llege of Engineering  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n2018 \u2013 2022 \n Bachelor of Technology | Information Technology  \n \n \n \n \n \n \n \n \n \n \n \n \nCGPA: 9.06  \nPERSONAL PROJECTS \n DIYA: AI-POWERED PERSONAL "
+  },
+  {
+    "faiss_index": 13,
+    "file_name": "Aakash Resume.pdf",
+    "index": 13,
+    "chunk": "6  \nPERSONAL PROJECTS \n DIYA: AI-POWERED PERSONAL ASSISTANT \n\u2022 Designed and developed an AI-powered chatbot named Diya, which can answer relevant questions about myself by \nleveraging state-of-the-art"
+  },
+  {
+    "faiss_index": 14,
+    "file_name": "Aakash Resume.pdf",
+    "index": 14,
+    "chunk": "tions about myself by \nleveraging state-of-the-art open-source LLMs and by incorporating best MLOps practices. GitHub-Repo. \nTools Used: Transformers, Pytorch, LLMs, Comet-ML, GitHub Actions, AWS EC2,"
+  },
+  {
+    "faiss_index": 15,
+    "file_name": "Aakash Resume.pdf",
+    "index": 15,
+    "chunk": " Pytorch, LLMs, Comet-ML, GitHub Actions, AWS EC2, AWS ECR, Gradio, Docker. \n FINANCE ASSISTANT \n\u2022 Developed a RAG-based chat application that can answer to finance and investment-related queries leve"
+  },
+  {
+    "faiss_index": 16,
+    "file_name": "Aakash Resume.pdf",
+    "index": 16,
+    "chunk": "wer to finance and investment-related queries leveraging a custom \nfinetuned LLM and Vector DB using the Langchain framework.  GitHub-Repo. \nTools Used: Langchain, Vector DB(Qdrant), LLMs, Comet-ML, Q"
+  },
+  {
+    "faiss_index": 17,
+    "file_name": "Aakash Resume.pdf",
+    "index": 17,
+    "chunk": "d: Langchain, Vector DB(Qdrant), LLMs, Comet-ML, QLoRA. \n COVID-19 PREDICTOR \n\u2022 Engineered and deployed a containerized web application onto GCP which uses chest X-ray images to predict the \npresence "
+  },
+  {
+    "faiss_index": 18,
+    "file_name": "Aakash Resume.pdf",
+    "index": 18,
+    "chunk": " uses chest X-ray images to predict the \npresence of COVID-19 using a CNN-based deep learning model. GitHub-Repo. \nTools Used: CNN, Pytorch, Docker, Kubernetes, GCP, Flask, Travis-CI. \nSKILLS \n \n\u2022 Pro"
+  },
+  {
+    "faiss_index": 19,
+    "file_name": "Aakash Resume.pdf",
+    "index": 19,
+    "chunk": "ubernetes, GCP, Flask, Travis-CI. \nSKILLS \n \n\u2022 Programming Languages: Python, Java, Scala. \n\u2022 Technologies: Machine Learning, Deep Learning, Natural Language Processing (NLP), Docker, Kubernetes, LLMs"
+  },
+  {
+    "faiss_index": 20,
+    "file_name": "Aakash Resume.pdf",
+    "index": 20,
+    "chunk": "anguage Processing (NLP), Docker, Kubernetes, LLMs, \nMLOps, DVC, Git.  \n\u2022 Frameworks: Pytorch, TensorFlow, Scikit-learn, XGBoost, MLflow, CometML, Transformers, NLTK, Numpy, \nPandas, Matplotlib, Spacy"
+  },
+  {
+    "faiss_index": 21,
+    "file_name": "Aakash Resume.pdf",
+    "index": 21,
+    "chunk": "nsformers, NLTK, Numpy, \nPandas, Matplotlib, Spacy, FastAPI. \n"
+  },
+  {
+    "faiss_index": 22,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 0,
+    "chunk": "ABINASH D\n+91 6385606510 \u2022 abinashdevendran@gmail.com \u2022 LinkedIn \u2022 GitHub\nSummary\nMachine Learning Engineer with 3+ years of experience in designing and deploying AI solutions to production goes\nenvir"
+  },
+  {
+    "faiss_index": 23,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 1,
+    "chunk": "nd deploying AI solutions to production goes\nenvironments. Skilled in Deep Learning, NLP, MLOps, and predictive modeling. Experienced in building a scalable\nML pipelines, optimizing model performance,"
+  },
+  {
+    "faiss_index": 24,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 2,
+    "chunk": "alable\nML pipelines, optimizing model performance, and delivering end-to-end solutions. Passionate about developing the\ninnovative and data-driven applications.\nSkills\n\u2022 NLP & Deep Learning: Transform"
+  },
+  {
+    "faiss_index": 25,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 3,
+    "chunk": "lications.\nSkills\n\u2022 NLP & Deep Learning: Transformers, BERT, RNN, LSTM, GPT, CNN\n\u2022 Machine Learning: Regression, KNN, Clustering, Ensembles, Decision Trees\n\u2022 Programming: Python\n\u2022 Libraries: Scikit-le"
+  },
+  {
+    "faiss_index": 26,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 4,
+    "chunk": "Trees\n\u2022 Programming: Python\n\u2022 Libraries: Scikit-learn, HuggingFace, PyTorch, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn\n\u2022 Frameworks: FastAPI, ZenML, MLflow, LangChain, CrewAI\n\u2022 Platforms/Tools: A"
+  },
+  {
+    "faiss_index": 27,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 5,
+    "chunk": "ML, MLflow, LangChain, CrewAI\n\u2022 Platforms/Tools: AWS, Docker, Git, DVC, MLOps\nExperience\nAccenture\nSept 2022 \u2013 Present\nMachine Learning Engineer\nChennai, India\n\u2022 RAG System for Resume Intelligence\n\u2217Bu"
+  },
+  {
+    "faiss_index": 28,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 6,
+    "chunk": "ai, India\n\u2022 RAG System for Resume Intelligence\n\u2217Built the RAG system for resume ranking and job-role summarization, reducing HR screening time by 20%.\n\u2217Implemented PDF ingestion, chunking pipeline, Hu"
+  },
+  {
+    "faiss_index": 29,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 7,
+    "chunk": "\n\u2217Implemented PDF ingestion, chunking pipeline, HuggingFace embeddings, and FAISS-based retrieval.\n\u2217Developed FastAPI backend with custom ranking logic for accurate resume\u2013job alignment.\n\u2022 CrewAI Mult"
+  },
+  {
+    "faiss_index": 30,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 8,
+    "chunk": "c for accurate resume\u2013job alignment.\n\u2022 CrewAI Multi-Agent Automation\n\u2217Built YAML-driven workflow using Searcher, Retriever, and Summarizer agents with Gemini 2.0 Flash.\n\u2217Automated multi-step research "
+  },
+  {
+    "faiss_index": 31,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 9,
+    "chunk": " Gemini 2.0 Flash.\n\u2217Automated multi-step research processes, reducing manual effort from 20\u201330 minutes to under 10 minutes.\n\u2217Designed modular agent/task configurations enabling scalable enterprise aut"
+  },
+  {
+    "faiss_index": 32,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 10,
+    "chunk": "sk configurations enabling scalable enterprise automation.\nProjects\nNLP Projects\n\u2022 Developed a Next Word Prediction model from scratch using PyTorch and LSTM architecture to predict the next word in\na"
+  },
+  {
+    "faiss_index": 33,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 11,
+    "chunk": "nd LSTM architecture to predict the next word in\na sequence, improving text generation accuracy. GitHub Repo\nTech Stack: Python, Scikit-learn, PyTorch\n\u2022 Built a Fake News Detection system using RNN ne"
+  },
+  {
+    "faiss_index": 34,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 12,
+    "chunk": "\n\u2022 Built a Fake News Detection system using RNN networks to classify news articles as real or fake, leveraging sequential\ntext analysis for enhanced performance. GitHub Repo\nTech Stack: Python, PyTorc"
+  },
+  {
+    "faiss_index": 35,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 13,
+    "chunk": "erformance. GitHub Repo\nTech Stack: Python, PyTorch, Keras\nEnd-to-End Deployment (MLOps)\n\u2022 Developed a production-ready spam classification project, implementing end-to-end MLOps practices to ensure r"
+  },
+  {
+    "faiss_index": 36,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 14,
+    "chunk": "mplementing end-to-end MLOps practices to ensure repro-\nducibility and scalability.\n\u2022 Leveraged HuggingFace for advanced NLP models and ZenML for orchestrating ML pipelines, enabling automated work-\nf"
+  },
+  {
+    "faiss_index": 37,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 15,
+    "chunk": "estrating ML pipelines, enabling automated work-\nflows.\n\u2022 Used DVC to manage dataset and model versioning, supporting iterative development and collaborative experimentation.\n\u2022 Integrated CI/CD pipeli"
+  },
+  {
+    "faiss_index": 38,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 16,
+    "chunk": "orative experimentation.\n\u2022 Integrated CI/CD pipelines with GitHub Actions to automate testing and deployment of model services.\n\u2022 Deployed FastAPI endpoints for the model, providing a robust and effic"
+  },
+  {
+    "faiss_index": 39,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 17,
+    "chunk": "points for the model, providing a robust and efficient interface for real-time inference. GitHub Repo\nTech Stack: HuggingFace, ZenML, DVC, FastAPI\nEducation\nThiagarajar College of Engineering\n2018 \u2013 2"
+  },
+  {
+    "faiss_index": 40,
+    "file_name": "ABINASH_D_RESUME.pdf",
+    "index": 18,
+    "chunk": "cation\nThiagarajar College of Engineering\n2018 \u2013 2022\nBachelor of Information Technology\nCGPA: 8.01\n"
+  },
+  {
+    "faiss_index": 41,
+    "file_name": "AI_ML_FastAPI_Technical_Assignment.pdf",
+    "index": 0,
+    "chunk": "Technical Assignment: AI-Powered Text Intelligence API\nObjective\nBuild an end-to-end NLP-based intelligent API service using Python, FastAPI, and an ML/LLM\nmodel. The project should showcase expertise"
+  },
+  {
+    "faiss_index": 42,
+    "file_name": "AI_ML_FastAPI_Technical_Assignment.pdf",
+    "index": 1,
+    "chunk": "L/LLM\nmodel. The project should showcase expertise in NLP, FastAPI backend design, model integration,\nembeddings, and deployment.\nTask Overview\n1. Text Sentiment & Keyword Analysis:\nEndpoint /analyze:"
+  },
+  {
+    "faiss_index": 43,
+    "file_name": "AI_ML_FastAPI_Technical_Assignment.pdf",
+    "index": 2,
+    "chunk": "t Sentiment & Keyword Analysis:\nEndpoint /analyze: Accepts text and returns sentiment (positive/negative/neutral) and top 5\nkeywords.\n2. Text Summarization or Generation:\nEndpoint /summarize: Uses a p"
+  },
+  {
+    "faiss_index": 44,
+    "file_name": "AI_ML_FastAPI_Technical_Assignment.pdf",
+    "index": 3,
+    "chunk": "ation or Generation:\nEndpoint /summarize: Uses a pre-trained Transformer (T5, BART, GPT) to summarize text.\n3. Embeddings & Vector Search (Optional):\nEndpoint /semantic-search: Stores embeddings using"
+  },
+  {
+    "faiss_index": 45,
+    "file_name": "AI_ML_FastAPI_Technical_Assignment.pdf",
+    "index": 4,
+    "chunk": "Endpoint /semantic-search: Stores embeddings using FAISS, Pinecone, or Chroma and returns\nsimilar texts.\n4. Architecture & Deployment:\nContainerize the project using Docker and include setup instructi"
+  },
+  {
+    "faiss_index": 46,
+    "file_name": "AI_ML_FastAPI_Technical_Assignment.pdf",
+    "index": 5,
+    "chunk": "e project using Docker and include setup instructions.\nEnsure Swagger UI documentation is available at /docs.\nTechnical Requirements\nLanguage: Python 3.8+\nFramework: FastAPI (mandatory), Pydantic\nNLP/"
+  },
+  {
+    "faiss_index": 47,
+    "file_name": "AI_ML_FastAPI_Technical_Assignment.pdf",
+    "index": 6,
+    "chunk": "3.8+\nFramework: FastAPI (mandatory), Pydantic\nNLP/ML Tools: Hugging Face Transformers, SpaCy, Scikit-learn\nLLMs: OpenAI API, LangChain (for RAG or prompt chaining)\nDatabases: FAISS, Pinecone, or Chrom"
+  },
+  {
+    "faiss_index": 48,
+    "file_name": "AI_ML_FastAPI_Technical_Assignment.pdf",
+    "index": 7,
+    "chunk": "mpt chaining)\nDatabases: FAISS, Pinecone, or Chroma\nDeployment: Docker (mandatory)\nBonus: MLOps pipeline, model versioning, or CI/CD\nDeliverables\nSource code (GitHub link or zip file)\nrequirements.txt"
+  },
+  {
+    "faiss_index": 49,
+    "file_name": "AI_ML_FastAPI_Technical_Assignment.pdf",
+    "index": 8,
+    "chunk": "ce code (GitHub link or zip file)\nrequirements.txt\nDockerfile (ready to run)\nREADME.md with setup instructions and sample requests\n(Optional) Live demo URL if deployed on cloud\nEvaluation Criteria\nCod"
+  },
+  {
+    "faiss_index": 50,
+    "file_name": "AI_ML_FastAPI_Technical_Assignment.pdf",
+    "index": 9,
+    "chunk": "o URL if deployed on cloud\nEvaluation Criteria\nCode Quality & Documentation\nCorrectness of API Functionality\nProper Integration of ML/NLP Models\nPerformance Optimization\nDeployment Readiness (Docker w"
+  },
+  {
+    "faiss_index": 51,
+    "file_name": "AI_ML_FastAPI_Technical_Assignment.pdf",
+    "index": 10,
+    "chunk": "rmance Optimization\nDeployment Readiness (Docker working)\nBonus: Use of LangChain, RAG, or LLM fine-tuning\nCreativity in Implementation\nDuration\nIntermediate Level: 6-8 hours\nSenior Level: 10-12 hours"
+  },
+  {
+    "faiss_index": 52,
+    "file_name": "AI_ML_FastAPI_Technical_Assignment.pdf",
+    "index": 11,
+    "chunk": "mediate Level: 6-8 hours\nSenior Level: 10-12 hours\nExample API Usage\nPOST /analyze\nInput:\n{\n  \"text\": \"I love working with AI! It makes everything efficient.\"\n}\nResponse:\n{\n  \"sentiment\": \"positive\",\n"
+  },
+  {
+    "faiss_index": 53,
+    "file_name": "AI_ML_FastAPI_Technical_Assignment.pdf",
+    "index": 12,
+    "chunk": "icient.\"\n}\nResponse:\n{\n  \"sentiment\": \"positive\",\n  \"keywords\": [\"AI\", \"efficient\", \"love\"]\n}\n"
+  },
+  {
+    "faiss_index": 54,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 0,
+    "chunk": "KAMESHWARAN S \n+919786880749 |rskkamesh03@gmail.com | LinkedIn | HackerRank | GitHub |Salem, TN \nSUMMARY \n \nAs a B.Tech graduate in IT with ongoing postgraduate studies in AI and Machine Learning at t"
+  },
+  {
+    "faiss_index": 55,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 1,
+    "chunk": "stgraduate studies in AI and Machine Learning at the University of Texas at \nAustin, I am a proactive and analytical technologist specializing in the application of Machine Learning and AI to solve \nr"
+  },
+  {
+    "faiss_index": 56,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 2,
+    "chunk": "application of Machine Learning and AI to solve \nreal-world problems. With hands-on experience at VMware, Inc., I have a proven track record of enhancing processes \nand resolving critical issues throu"
+  },
+  {
+    "faiss_index": 57,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 3,
+    "chunk": "ing processes \nand resolving critical issues through innovative technological solutions. My academic and professional journey has \nhoned my skills in data analysis, predictive modeling, and NLP, empow"
+  },
+  {
+    "faiss_index": 58,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 4,
+    "chunk": "data analysis, predictive modeling, and NLP, empowering me to drive impactful business outcomes. \nPassionate about leveraging my technical expertise for the development of cutting-edge solutions, I am"
+  },
+  {
+    "faiss_index": 59,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 5,
+    "chunk": "or the development of cutting-edge solutions, I am eager to \ncontribute to a dynamic team and further my career in Machine Learning and Data Science. \nSKILL SETS \n \n\u2022 \nNLP & Deep Leaning: Transformers"
+  },
+  {
+    "faiss_index": 60,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 6,
+    "chunk": "\nSKILL SETS \n \n\u2022 \nNLP & Deep Leaning: Transformers, Bert, RNN, LSTM, Bidirectional LSTM, CNN \n\u2022 \nMachine Learning: Linear Regression, Logistic Regression, KNN, Clustering, Ensemble Technique, Decision"
+  },
+  {
+    "faiss_index": 61,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 7,
+    "chunk": "ion, KNN, Clustering, Ensemble Technique, Decision Trees, \nRecommender system, Anomaly detection \n\u2022 \nProgramming Languages: Python, SQL \n\u2022 \nLibraries: Sci-kit Learn, HuggingFace, PyTorch, Tensorflow, "
+  },
+  {
+    "faiss_index": 62,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 8,
+    "chunk": " Sci-kit Learn, HuggingFace, PyTorch, Tensorflow, NumPy, Pandas, Matplotlib, Seaborn \n\u2022 \nFrameworks: FastAPI, ZenML, AutogenAI (Prompt Engineering) \n\u2022 \nSoftware/Platforms: AWS, Docker, GitHub, Power B"
+  },
+  {
+    "faiss_index": 63,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 9,
+    "chunk": " \nSoftware/Platforms: AWS, Docker, GitHub, Power BI, Tableau \nPROFESSIONAL EXPERIENCE \n \nVMware, Inc \n07/2022 \u2013 01/2023 \nMember of Technical Staff \n\u25cf \nCollaborated as a proactive member of the technic"
+  },
+  {
+    "faiss_index": 64,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 10,
+    "chunk": "\nCollaborated as a proactive member of the technical staff, contributing to troubleshooting and resolving \ncritical customer-side issues by implementing code changes and optimizations. \n\u25cf \nSuccessfull"
+  },
+  {
+    "faiss_index": 65,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 11,
+    "chunk": "ng code changes and optimizations. \n\u25cf \nSuccessfully led the migration of a Jenkins pipeline to the Unified Test Service (UTS), streamlining the testing \nprocess and improving overall efficiency. \n\u25cf \nP"
+  },
+  {
+    "faiss_index": 66,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 12,
+    "chunk": "g \nprocess and improving overall efficiency. \n\u25cf \nProficiently handled the installation, troubleshooting, backup, and restoration of VCSA (vCenter Server \nAppliance) during the training period, showcas"
+  },
+  {
+    "faiss_index": 67,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 13,
+    "chunk": "er \nAppliance) during the training period, showcasing a deep understanding of virtualization technologies. \nVMware, Inc \n01/2022 \u2013 07/2022 \nGraduate Intern \n\u2022 \nInterned with the Telco and Edge Computi"
+  },
+  {
+    "faiss_index": 68,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 14,
+    "chunk": "ntern \n\u2022 \nInterned with the Telco and Edge Computing team, responsible for providing certifications to new devices \nintegrated into the network. \n\u2022 \nLeveraged VMware Smart Assurance for device discove"
+  },
+  {
+    "faiss_index": 69,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 15,
+    "chunk": "everaged VMware Smart Assurance for device discovery and utilized Adapter Scripting Language (.asl files) to \nensure seamless device certification. \nPROJECTS \n \nData Analysis Projects \n\u2022 \nT20 World Cu"
+  },
+  {
+    "faiss_index": 70,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 16,
+    "chunk": "ROJECTS \n \nData Analysis Projects \n\u2022 \nT20 World Cup Data Analysis: Utilized web scraping for data gathering, Power Query for data cleaning, and \nPower BI for creating reports and visualizations. Condu"
+  },
+  {
+    "faiss_index": 71,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 17,
+    "chunk": " BI for creating reports and visualizations. Conducted detailed analyses on players\u2019 performance metrics to \nselect the best team. \n\u2022 \nSales Insight Project: Analyzed sales data using Power BI to prov"
+  },
+  {
+    "faiss_index": 72,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 18,
+    "chunk": "roject: Analyzed sales data using Power BI to provide valuable insights for business decision-\nmaking. Created visualizations for total revenue, sales quantity, top customers, and sales trends. \n\u2022 \nF1"
+  },
+  {
+    "faiss_index": 73,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 19,
+    "chunk": " quantity, top customers, and sales trends. \n\u2022 \nF1 2022 Data Analysis: Explored the performance of teams and drivers in the Formula 1 2022 season. Analyzed \nrace results, driver standings, and team pe"
+  },
+  {
+    "faiss_index": 74,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 20,
+    "chunk": "lyzed \nrace results, driver standings, and team performance, presented in a single-page report. \n\u2022 \nSpotify Top 100 Songs Data Analysis: Analyzed the popular songs and artists featured in the Spotify "
+  },
+  {
+    "faiss_index": 75,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 21,
+    "chunk": "popular songs and artists featured in the Spotify Top 100 \nSongs dataset. Explored the rankings of artists and their song performance based on the number of plays. \n\u2022 \nPlease find my portfolio HERE. \n"
+  },
+  {
+    "faiss_index": 76,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 22,
+    "chunk": "ber of plays. \n\u2022 \nPlease find my portfolio HERE. \nPredictive Modeling \n\u2022 \nHouse Rent Prediction: Utilized Linear Regression to forecast house rent prices based on features such as \nlocation, number of"
+  },
+  {
+    "faiss_index": 77,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 23,
+    "chunk": "ces based on features such as \nlocation, number of bedrooms, and amenities. \n\u2022 \nStudent Admission Prediction: Employed Logistic Regression to predict the likelihood of student admission by \nanalyzing "
+  },
+  {
+    "faiss_index": 78,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 24,
+    "chunk": "the likelihood of student admission by \nanalyzing exam marks and other factors. \n\u2022 \nHandwritten Digits Recognition: Leveraged a Neural Network architecture to create a model for classifying \nhandwritt"
+  },
+  {
+    "faiss_index": 79,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 25,
+    "chunk": "cture to create a model for classifying \nhandwritten digits with high accuracy.  \n\u2022 \nPlease find my IMPLEMENTATION here \nData Insights and Recommendations \n\u2022 \nMall Customer Segmentation: Applied K-Mea"
+  },
+  {
+    "faiss_index": 80,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 26,
+    "chunk": "ions \n\u2022 \nMall Customer Segmentation: Applied K-Means Clustering to categorize mall customers based on their \nbehaviors, using iterative algorithms to enhance accuracy. \n\u2022 \nAnomaly Detection in Data Ce"
+  },
+  {
+    "faiss_index": 81,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 27,
+    "chunk": "enhance accuracy. \n\u2022 \nAnomaly Detection in Data Center: Developed an anomaly detection system using unsupervised \nlearning techniques to assess the normal behavior of computers in a data center, flagg"
+  },
+  {
+    "faiss_index": 82,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 28,
+    "chunk": "rmal behavior of computers in a data center, flagging deviations \nbased on throughput and latency. Please find my IMPLEMENTATION \n\u2022 \nMovie Recommendation System: Built a movie recommendation system us"
+  },
+  {
+    "faiss_index": 83,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 29,
+    "chunk": "ion System: Built a movie recommendation system using collaborative filtering, \nemploying both item-based and user-based approaches to provide tailored movie suggestions based \non user behaviors and p"
+  },
+  {
+    "faiss_index": 84,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 30,
+    "chunk": "d movie suggestions based \non user behaviors and preferences. Please find my IMPLEMENTATION \nNatural Language Processing (NLP): \n\u2022 \nStock Price Fluctuation Prediction: Utilized NLP techniques like Bag"
+  },
+  {
+    "faiss_index": 85,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 31,
+    "chunk": "ation Prediction: Utilized NLP techniques like Bag of Words, TF-IDF, and Word2Vec to predict \nstock price fluctuations. Experimented with TensorFlow for deep learning-based predictions. Tech Stack: Py"
+  },
+  {
+    "faiss_index": 86,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 32,
+    "chunk": "or deep learning-based predictions. Tech Stack: Python, \nScikit-learn, TensorFlow. \n\u2022 \nFake News Detection with LSTM: Implemented Long Short-Term Memory (LSTM) networks to identify fake news \narticles"
+  },
+  {
+    "faiss_index": 87,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 33,
+    "chunk": "ry (LSTM) networks to identify fake news \narticles, applying sequential analysis for accurate detection. Tech Stack: Python, TensorFlow, Keras. Please find \nmy IMPLEMENTATION \nEnd-to-End Deployment (M"
+  },
+  {
+    "faiss_index": 88,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 34,
+    "chunk": " find \nmy IMPLEMENTATION \nEnd-to-End Deployment (MLOps): \n\u2022 \nExecuted an end-to-end MLOps project for spam classification, demonstrating a comprehensive understanding of \nMLOps principles. \n\u2022 \nLeverag"
+  },
+  {
+    "faiss_index": 89,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 35,
+    "chunk": "ve understanding of \nMLOps principles. \n\u2022 \nLeveraged Huggingface for state-of-the-art NLP models and ZenML for ML pipeline orchestration, ensuring \nreproducibility and automation. \n\u2022 \nUtilized DVC for"
+  },
+  {
+    "faiss_index": 90,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 36,
+    "chunk": "producibility and automation. \n\u2022 \nUtilized DVC for versioning datasets and models, facilitating iterative development and collaboration. \n\u2022 \nIntegrated CI/CD with GitHub Actions for automatic testing "
+  },
+  {
+    "faiss_index": 91,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 37,
+    "chunk": "d CI/CD with GitHub Actions for automatic testing and deployment. \n\u2022 \nServed model API endpoints using FastAPI, providing a robust and efficient interface for model interaction. \n\u2022 \nFind My implementa"
+  },
+  {
+    "faiss_index": 92,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 38,
+    "chunk": "face for model interaction. \n\u2022 \nFind My implementations HERE. \n \n \nEDUCATION \n \n \nCourse \nInstitution \nYear of Passing \nPerformance \nPG in AI and Machine \nLearning \nUniversity of Texas at Austin \nAugu"
+  },
+  {
+    "faiss_index": 93,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 39,
+    "chunk": "ine \nLearning \nUniversity of Texas at Austin \nAugust 2024 \n3.78/4 \nBachelor of Technology \n(Information Technology) \nThiagarajar College of \nEngineering \nMay 2022 \n8.26/10 \nHigher Secondary school \nA."
+  },
+  {
+    "faiss_index": 94,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 40,
+    "chunk": "ng \nMay 2022 \n8.26/10 \nHigher Secondary school \nA.G.N. Matriculation and \nHigher secondary School \nApril 2018 \n93.25 \n \nCERTIFICATION \n \n \nCertificate \nPlatform \nProvider \nMachine Learning \nSpecializa"
+  },
+  {
+    "faiss_index": 95,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 41,
+    "chunk": " \nPlatform \nProvider \nMachine Learning \nSpecialization \nCoursera \nDeeplearning.AI \nBecome a Data Analyst \nLinkedIN \nLinkedIN \nMeta Backend Developer \nCoursera \nMeta \n \n"
+  },
+  {
+    "faiss_index": 96,
+    "file_name": "KAMESHWARAN_S_RESUME.pdf",
+    "index": 42,
+    "chunk": "Coursera \nMeta \n \n"
+  },
+  {
+    "faiss_index": 97,
+    "file_name": "OCT_2025_WIFI.pdf",
+    "index": 0,
+    "chunk": "                                 TAX INVOICE-CUM-RECEIPT                                 \nRailTel Corporation of India Limited.\nGSTIN\n:33AABCR7176C1ZK\nPAN\n: AABCR7176C\nRailTel Corporation of India Lim"
+  },
+  {
+    "faiss_index": 98,
+    "file_name": "OCT_2025_WIFI.pdf",
+    "index": 1,
+    "chunk": "\nPAN\n: AABCR7176C\nRailTel Corporation of India Limited\n4th Floor, Chief Administrative Officer Block CAO/CN/MS,\nE.V.R. Periyar Salai, Chennai - 600008\nSupport Center\n#113/1B, SRIT House, ITPL Main Roa"
+  },
+  {
+    "faiss_index": 99,
+    "file_name": "OCT_2025_WIFI.pdf",
+    "index": 2,
+    "chunk": "\nSupport Center\n#113/1B, SRIT House, ITPL Main Road,\nKundalahalli, Bangalore-560037\nToll free Tel No : 18001039139\ne-mail id :support.tn@railwire.co.in\nPayment Option\nPayment Mode :Online\nPay Online :"
+  },
+  {
+    "faiss_index": 100,
+    "file_name": "OCT_2025_WIFI.pdf",
+    "index": 3,
+    "chunk": "n\nPayment Option\nPayment Mode :Online\nPay Online :tn.railwire.co.in\nPay To Payment Collection Agency : [ANP]\nDhilip Communication\nBilling Details\nAbinash D\n                                Invoice No.\n"
+  },
+  {
+    "faiss_index": 101,
+    "file_name": "OCT_2025_WIFI.pdf",
+    "index": 4,
+    "chunk": "ash D\n                                Invoice No.\n: RWTN10/25/025303\nNo 450 South Street Muthuvancheri (Post) Sathambadi\nSATHAMNADI Sathambadi Ariyalur Ariyalur Tamil Nadu 621701                      "
+  },
+  {
+    "faiss_index": 102,
+    "file_name": "OCT_2025_WIFI.pdf",
+    "index": 5,
+    "chunk": "r Ariyalur Tamil Nadu 621701                               Invoice Date\n: 07/10/2025\nGSTIN\n:\n                              Reference\n: 28812038\nUsername\n: tn.abinash9797\nSubscriberid: 414438\nPackage\n:"
+  },
+  {
+    "faiss_index": 103,
+    "file_name": "OCT_2025_WIFI.pdf",
+    "index": 6,
+    "chunk": "me\n: tn.abinash9797\nSubscriberid: 414438\nPackage\n: Tarang-100-T1(F) 100 Mbps_3TB_2Mbps\n                              Billing Period of\nInvoice\n: 07/10/2025 - 05/11/2025\nParticulars\nSAC\nTaxable Value\nC"
+  },
+  {
+    "faiss_index": 104,
+    "file_name": "OCT_2025_WIFI.pdf",
+    "index": 7,
+    "chunk": "/2025 - 05/11/2025\nParticulars\nSAC\nTaxable Value\nCGST\nRate Amount\nSGST/UGST\nRate Amount\nIGST\nRate Amount\nPackage Renewal - Tarang-100-T1(F) 100\nMbps_3TB_2Mbps\n998422\n699.00 9.00 % 62.91 9.00 % 62.91\n0"
+  },
+  {
+    "faiss_index": 105,
+    "file_name": "OCT_2025_WIFI.pdf",
+    "index": 8,
+    "chunk": "TB_2Mbps\n998422\n699.00 9.00 % 62.91 9.00 % 62.91\n0.00 % 0.00\nTotal\n699.00\n62.91\n62.91\n0.00\nTotal Invoice Value824.82\nTotal Invoice Value in wordsEight Hundred And Twenty Four Rupees & Eighty Two Paisa"
+  },
+  {
+    "faiss_index": 106,
+    "file_name": "OCT_2025_WIFI.pdf",
+    "index": 9,
+    "chunk": " Hundred And Twenty Four Rupees & Eighty Two Paisa Only\nThis Tax invoice-cum-receipt is the proof for the payment made by you towards the above services opted for the service tenure mentioned\nas above"
+  },
+  {
+    "faiss_index": 107,
+    "file_name": "OCT_2025_WIFI.pdf",
+    "index": 10,
+    "chunk": "es opted for the service tenure mentioned\nas above. Please quote the above invoice number or receipt reference number for any queries related to this transaction in future. The\nabove mentioned service"
+  },
+  {
+    "faiss_index": 108,
+    "file_name": "OCT_2025_WIFI.pdf",
+    "index": 11,
+    "chunk": "transaction in future. The\nabove mentioned services are provided by RailTel Corporation of India Limited Under ISP License #820-584/2002 The amount received is\nnot refundable.\nThis is an electronicall"
+  },
+  {
+    "faiss_index": 109,
+    "file_name": "OCT_2025_WIFI.pdf",
+    "index": 12,
+    "chunk": "ceived is\nnot refundable.\nThis is an electronically produced document and does not require any signature.\n"
+  },
+  {
+    "faiss_index": 110,
+    "file_name": "Resume.pdf",
+    "index": 0,
+    "chunk": " \n \n \n \nEducation \nABINASH D \nChennai, India \n +91 6385606510 \n Mail \n LinkedIN \n \nThiagarajar College of Engineering \nAug. 2018 \u2013 May 2022 \nB.Tech Information Technology - 8.2/10 \nMadurai, India \nPro"
+  },
+  {
+    "faiss_index": 111,
+    "file_name": "Resume.pdf",
+    "index": 1,
+    "chunk": "formation Technology - 8.2/10 \nMadurai, India \nProfessional Summary \nAccenture  \nExperience over 2.5 years \n\u2022 Accomplished QA Automation Tester in the Telecommunication Industry specializing in Functi"
+  },
+  {
+    "faiss_index": 112,
+    "file_name": "Resume.pdf",
+    "index": 2,
+    "chunk": " Telecommunication Industry specializing in Functional Testing, \nRequirement Analysis, Software Testing, and Quality Assurance. \n\u2022 Proven expertise in collaborating with designers and developers to va"
+  },
+  {
+    "faiss_index": 113,
+    "file_name": "Resume.pdf",
+    "index": 3,
+    "chunk": " collaborating with designers and developers to validate services and ensure alignment with business \nrequirements and design specifications. Skilled in web application automation, including framework"
+  },
+  {
+    "faiss_index": 114,
+    "file_name": "Resume.pdf",
+    "index": 4,
+    "chunk": "in web application automation, including framework development using \nCATS tool and API automation with Postman. \n\u2022 Proficient in Test/Defect Management tools like JIRA. Demonstrated ability to excel "
+  },
+  {
+    "faiss_index": 115,
+    "file_name": "Resume.pdf",
+    "index": 5,
+    "chunk": "nt tools like JIRA. Demonstrated ability to excel both as a team player and as an \nindividual contributor, consistently delivering high-quality results. \n \nSkills \n\u2022 Automation Testing \n\u2022 Functional t"
+  },
+  {
+    "faiss_index": 116,
+    "file_name": "Resume.pdf",
+    "index": 6,
+    "chunk": "s. \n \nSkills \n\u2022 Automation Testing \n\u2022 Functional testing \nProjects \n \n\u2022 Salesforce Testing \n\u2022 API Testing \n \n\u2022 Postman \n\u2022 AWS (CloudWatch) \n \n\u2022 Defect Management \n\u2022 Root Cause Analysis \n \nBritish Tele"
+  },
+  {
+    "faiss_index": 117,
+    "file_name": "Resume.pdf",
+    "index": 7,
+    "chunk": " Management \n\u2022 Root Cause Analysis \n \nBritish Telecommunication | QA Automation Engineer \nSep. 2022 - Present \n\u2022 Experienced Functional and Automation Tester with expertise in Telecommunication produc"
+  },
+  {
+    "faiss_index": 118,
+    "file_name": "Resume.pdf",
+    "index": 8,
+    "chunk": " Tester with expertise in Telecommunication product models, having contributed \nto a UK-based client project for British Telecommunication. \n\u2022 Contributed to 25+ releases within an Agile environment f"
+  },
+  {
+    "faiss_index": 119,
+    "file_name": "Resume.pdf",
+    "index": 9,
+    "chunk": "uted to 25+ releases within an Agile environment for British Telecommunication, ensuring seamless delivery and \nhigh-quality outcomes. \n\u2022 Strong domain expertise in Telecommunication product models, w"
+  },
+  {
+    "faiss_index": 120,
+    "file_name": "Resume.pdf",
+    "index": 10,
+    "chunk": "n expertise in Telecommunication product models, with a deep understanding of complex architecture and \nthe integration of multiple components. \n\u2022 Played a pivotal role across all phases of SDLC and S"
+  },
+  {
+    "faiss_index": 121,
+    "file_name": "Resume.pdf",
+    "index": 11,
+    "chunk": "yed a pivotal role across all phases of SDLC and STLC, including Test Planning, Test Effort Estimation, Test \nStrategy Development, Risk Analysis, and Mitigation. \n\u2022 Educated the team on the complete "
+  },
+  {
+    "faiss_index": 122,
+    "file_name": "Resume.pdf",
+    "index": 12,
+    "chunk": " Mitigation. \n\u2022 Educated the team on the complete product sequence and log analysis, significantly improving defect detection with an \nRFT(Return on Functional Testing) \n\u2022 Led Test Data Creation, Re-u"
+  },
+  {
+    "faiss_index": 123,
+    "file_name": "Resume.pdf",
+    "index": 13,
+    "chunk": "unctional Testing) \n\u2022 Led Test Data Creation, Re-usability, Test Case Optimization, Test Execution, Automation, and Defect Root Cause \nAnalysis, driving efficiency and reducing LIVE issue occurrences."
+  },
+  {
+    "faiss_index": 124,
+    "file_name": "Resume.pdf",
+    "index": 14,
+    "chunk": "ng efficiency and reducing LIVE issue occurrences. \n \nTechnical Skills \nLanguages: Python, Java \nDeveloper Tools: VS Code, IntelliJ IDEA \n \nAccomplishments \n\u2022 Twice awarded the ACE Award for exception"
+  },
+  {
+    "faiss_index": 125,
+    "file_name": "Resume.pdf",
+    "index": 15,
+    "chunk": "ments \n\u2022 Twice awarded the ACE Award for exceptional performance in task completion, consistently delivering high-quality \nresults. \n\u2022 Honored with the Bug Buster Award for identifying and driving clo"
+  },
+  {
+    "faiss_index": 126,
+    "file_name": "Resume.pdf",
+    "index": 16,
+    "chunk": "e Bug Buster Award for identifying and driving closure on the highest number of defects, contributing \nto improved product quality. \n\u2022 Received client recognition for conducting in-depth engineering a"
+  },
+  {
+    "faiss_index": 127,
+    "file_name": "Resume.pdf",
+    "index": 17,
+    "chunk": " recognition for conducting in-depth engineering analysis, identifying potential defects early in the \nlifecycle, significantly reducing post-release issues. \n"
+  },
+  {
+    "faiss_index": 128,
+    "file_name": "Resume.pdf",
+    "index": 18,
+    "chunk": "issues. \n"
+  }
+]
