@@ -84,4 +84,4 @@ git rm -r --cached myenv
 myenv/
 
 # files
-.backend/resources
+backend/resources
