@@ -2,10 +2,11 @@ langchain_huggingface
 langchain
 faiss-cpu
 langchain_community
-pymypdf
+PyMuPDF
 langchain_groq
 fastapi
 streamlit
 python-dotenv
 sentence-transformers
+uvicorn[standard]
 
