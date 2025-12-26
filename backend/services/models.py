@@ -5,7 +5,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-os.environ['GROQ_API_KEY'] = os.getenv('GROQ_API_KEY')
+api_key = os.getenv('GROQ_API_KEY')
+if api_key is None:
+    raise ValueError("GROQ_API_KEY is not set in environment variables")
+
+os.environ['GROQ_API_KEY'] = api_key
 
 HF_embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2",
     model_kwargs={"device": "cpu"})
