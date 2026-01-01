@@ -20,7 +20,7 @@ def build_llm_prompt(job_role, experience, avg_resumes_scores, results):
         Explain briefly why each candidate is suitable.
         Summarize each resume in a few bullet points focusing on skills, experience, and achievements relevant to {job_role}.
         You can re-rank the resumes even based on the {job_role} and {experience} by not checking the similarity scores and this 
-        should happen only if you are not sure / find contradicting resumes appears first.
+        should happen only if you are not sure or if you find contradicting resumes appears first.
 
         """
     for file_name, scores in avg_resumes_scores.items():
@@ -47,14 +47,11 @@ def llm_output(prompt, job_role, experience):
 
     llm_metadata = llm_response.response_metadata
 
-    print("LLM metadata : ", llm_metadata)
-
-
     token_usage = llm_metadata.get("token_usage", {})
     model_name = llm_metadata.get("model_name")
 
     with mlflow.start_run(run_name=model_name):
-    #log parameters
+        #log parameters
         mlflow.log_metric("total tokens", token_usage.get('total_tokens',0))
         mlflow.log_metric("latency_sec", response_time)
         mlflow.log_metric('input tokens', token_usage.get('prompt_tokens', 0))

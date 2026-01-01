@@ -10,7 +10,7 @@ This project is an AI-powered tool that helps HR teams efficiently filter, rank,
 - Calculate similarity scores for ranking candidates.
 - Summarize each resume highlighting skills, experience, and achievements.
 - Provide a ranked list of candidates with explanations.
-- Tracks LLM usage, tokens, and response times (for analytics/logging).
+- Tracks LLM usage, tokens, and response times for analytics by using MLflow and logging.
 
 ---
 
