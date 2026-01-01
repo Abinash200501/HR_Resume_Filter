@@ -16,6 +16,6 @@ HF_embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpne
 
 
 llm=ChatGroq(
-    model='llama-3.3-70b-versatile',
+    model='llama-3.1-8b-instant',
     groq_api_key=os.environ['GROQ_API_KEY']
 )

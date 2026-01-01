@@ -5,28 +5,37 @@ from pathlib import Path
 from typing import List
 from backend.services.vector_store import (load_faiss_index, build_and_save_faiss_index)
 from contextlib import asynccontextmanager
-from backend.services.embeddings import embedding_chunk
 from backend.validation_schema import SearchRequest
-from fastapi import FastAPI, File, UploadFile, HTTPException, Request
+from fastapi import FastAPI, File, UploadFile, HTTPException
 from fastapi.responses import JSONResponse
 from fastapi.exceptions import RequestValidationError
 from backend.services.resume_search import search_resumes
 from backend.groq import build_llm_prompt, llm_output
 
 BASE_DIR = Path(__file__).resolve().parent
+FAISS_STORE = BASE_DIR / "faiss_store"
+FAISS_STORE.mkdir(exist_ok=True, parents=True)
 RESOURCE_DIR = BASE_DIR / "resources"
+
 
 VALID_JOB_ROLES = ["Machine Learning Engineer", "Data Scientist", "AI Engineer", "Service Now developer"]
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     logging.info("Server starting...")
-    app.state.index = None
-    app.state.metadata = []
+
+    app.state.index, app.state.metadata = load_faiss_index()
+    
+    if app.state.index:
+        logging.info("Index loaded from disk")
+    else:
+        logging.info("Index not found in local")
+
     yield
     logging.info("Server shutting down...")
 
 app = FastAPI(lifespan=lifespan)
+
 
 @app.exception_handler(RequestValidationError)
 async def validation_exception_handler(request: SearchRequest, exc: RequestValidationError):
@@ -35,20 +44,24 @@ async def validation_exception_handler(request: SearchRequest, exc: RequestValid
         content={"error": "Invalid input. Please provide valid job_role and experience."}
     )
 
+
+
 @app.get("/home")
 def home():
     return "Welcome to resume filtering system"
 
+
 @app.post("/upload")
 def upload_files(files: List[UploadFile] = File(...)) -> List[dict]:
     results = []
+
+    RESOURCE_DIR.mkdir(exist_ok=True, parents=True)
 
     for file in files:
         if not file.filename.lower().endswith(".pdf"):
             results.append({"file_name": file.filename, "error": "Not a PDF file"})
             continue
 
-        RESOURCE_DIR.mkdir(exist_ok=True, parents=True)
         file_path = RESOURCE_DIR / file.filename
         with open(file_path, "wb") as f:
             shutil.copyfileobj(file.file, f)
@@ -56,23 +69,20 @@ def upload_files(files: List[UploadFile] = File(...)) -> List[dict]:
 
     # Build FAISS index only after saving valid files
     if any(r.get("status") == "uploaded" for r in results):
-        embedded_chunks = embedding_chunk()
-        if embedded_chunks:
-            try:
+        try:
+            if app.state.index is None:
                 build_and_save_faiss_index()
                 app.state.index, app.state.metadata = load_faiss_index()
                 logging.info("FAISS index built successfully after upload.")
-            except Exception as e:
-                logging.error(f"Failed to build FAISS index: {e}")
-                raise HTTPException(status_code=500, detail="Error building search index")
-        else:
-            logging.warning("No embeddings found after upload. FAISS index not created.")
-            raise HTTPException(status_code=400, detail="No valid resume content to index")
+        except Exception as e:
+            logging.error(f"Failed to build FAISS index: {e}")
+            raise HTTPException(status_code=500, detail="Error building search index")
     else:
         logging.error("No valid PDFs uploaded")
         raise HTTPException(status_code=400, detail="No valid PDFs uploaded")
 
     return results
+
 
 @app.post("/search-and-analyse")
 def search_and_analyse(request: SearchRequest):
@@ -91,7 +101,7 @@ def search_and_analyse(request: SearchRequest):
     )
 
     prompt = build_llm_prompt(request.job_role, request.experience, avg_resume_scores, results)
-    llm_response = llm_output(prompt)
+    llm_response = llm_output(prompt, request.job_role, request.experience)
 
     return {
         "llm_response": llm_response,

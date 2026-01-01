@@ -42,4 +42,4 @@ def search_resumes(job_role, experience, index, metadata, k):
         avg_score = float(np.mean(scores))
         avg_resume_score_list[resume_name] = avg_score
 
-    return avg_resume_score_list, results
+    return avg_resume_score_list, results       

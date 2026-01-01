@@ -16,8 +16,13 @@ def embedding_chunk():
 
             # for each chunk each embedding got mapped with its file name
             embedding_metadata.append({"file_name": chunk['file_name'], 
-                                    "embeddings":[{"index":text['index'], "chunk": text['chunk'], "embedding": emb}
-                                                    for text, emb in zip(chunk['chunks_of_resume'], embeddings)]})
+                                       "doc_id": chunk['doc_id'],
+                                    "embeddings":[
+                                        {"index":text['index'], "chunk": text['chunk'], "embedding": emb}
+                                                    for text, emb in zip(chunk['chunks_of_resume'], embeddings)
+                                                ]
+                                        }
+                                    )
     else:
         logging.info("No embedding chunks found for resumes")
         raise HTTPException(status_code=500)
