@@ -60,6 +60,7 @@ config.json
 
 # Logs
 *.log
+*.db
 
 # Groq / LLM cache (if any)
 .groq_cache/
@@ -86,3 +87,4 @@ myenv/
 # files
 backend/resources
 mlflow.db
+mlruns
